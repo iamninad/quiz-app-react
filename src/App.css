@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.common_header {
+  display: flex;
+  justify-content: center;
+}
+
+.common_header p {
+  cursor: pointer;
+  background-color: rgb(9, 198, 255);
+  margin: 20px;
+  padding: 20px;
+}

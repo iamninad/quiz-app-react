@@ -1,0 +1,38 @@
+.short_read_wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.short_read_header {
+    display: flex;
+}
+
+.short_read_header svg {
+    cursor: pointer;
+    font-size: 70px;
+}
+
+.short_read_option {
+    border-radius: 5px;
+    background-color: #0096ff;
+    cursor: pointer;
+    padding: 1px 100px;
+    margin: 15px;
+}
+
+.short_read_desc {
+    background-color: rgb(57, 238, 57);
+    border-radius: 5px;
+    padding: 1px 100px;
+    width: 50%;
+}
+
+.black_div {
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    padding: 0 100px;
+    margin: 20px;
+    font-weight: bolder;
+}
